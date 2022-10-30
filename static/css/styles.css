@@ -1,0 +1,238 @@
+/*Navbar and Footer Styling*/
+.navbar {
+    background: #697268;
+    color: #F4d58d;
+    padding: 10px;
+}
+
+.active{
+  color:#4d2d52;
+  font-weight: bold;
+}
+
+.links:hover {
+  color:#F4d58d;
+}
+
+
+
+/*Titles, Subtitles & Headers*/
+.title{
+  font-family: "Monaco",monospace;
+  color: #0e1116;
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+}
+
+.text-block{
+  padding: 50px;
+  text-decoration: none;
+}
+
+.homesubtitle{
+  font-family:cursive;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+h4.landing {
+  text-align: center;
+  color: #00203d;
+  font-family: "Courier New",monospace;  
+  font-weight: bold;   
+}
+
+.subtitle{
+  font-family: "Courier New",monospace;
+  color: #0e1116;
+  text-align: center;
+  font-family: 'Segoe UI', cursive;
+  font-size: 30px;
+}
+
+
+
+
+/*Body*/
+body {
+  background-color:#fbf8ec;
+  padding: 0;
+  margin: 0;}
+
+a{
+  text-decoration: none;
+}
+
+p{
+  font-family: "Monaco", "Courier New", monospace;
+  text-align: justify;
+}
+
+
+
+/*Images & Maps*/
+
+  /*Icons on Homepage*/
+IMG.panel {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2%; 
+  width: 300px;
+  height: 300px;
+  z-index: 2;  
+  border: 2px solid #555;
+  border-radius: 8px;
+  filter: grayscale(40%);
+  box-shadow: 20px 20px 50px grey;
+}
+
+.policepic{
+  padding-top: 5px;
+}
+
+.policegraph{
+  padding-left: 150px;
+  padding-bottom: 50px;
+}
+
+.masspic{
+  border: 10px solid #555;
+  margin-left: auto;
+  position: center;
+
+}
+
+.icon{
+  background-color: #fbf8ec;
+  filter: sepia(60%);
+  border: 3px solid #555;
+}
+
+/* Set map, body, and html to 100% of the screen size. */
+#map,
+body,
+html {
+  height: 86.7%;
+}
+
+/* Remove the default margin and padding from the body. */
+html,
+body,
+#map-id {
+    height: 100%;
+    padding: 0;
+    margin:0;}
+    
+    #wheelOfFortune {
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+      }
+      
+      #wheel {
+        display: block;
+      }
+      
+      #spin {
+        font: 2.0em/0 sans-serif;
+        user-select: none;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 30%;
+        height: 30%;
+        margin: -15%;
+        background: #fff;
+        color: #fff;
+        box-shadow: 0 0 0 8px currentColor, 0 0px 15px 5px rgba(0, 0, 0, 0.6);
+        border-radius: 50%;
+        transition: 0.8s;
+      }
+      
+      #spin::after {
+        content: "";
+        position: absolute;
+        top: -17px;
+        border: 10px solid transparent;
+        border-bottom-color: currentColor;
+        border-top: none;
+      }
+      .panel2 {
+        color: yellow;
+      }
+      
+
+
+
+
+/*Footer*/
+footer {
+  display:flex;
+  background-color: #697268;
+  color: #F4d58d;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  width: 100%;
+  border-top: 1px solid white;
+  justify-content:center;
+     align-items:center;
+}
+
+.footerlinks {
+  color:#F4d58d;
+  text-decoration: none;
+}
+
+.footerlinks:hover {
+  color:#4d2d52;
+}
+
+
+
+
+
+/*.container-pic {
+  position: relative;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px rgb(158, 168, 175);
+  }
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+
+
+
+.box {
+    background-color: #EBF5DF; 
+    min-height: 500px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
