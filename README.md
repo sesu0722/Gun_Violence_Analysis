@@ -4,24 +4,6 @@
 ### Description:
 <p>We all know that gun violence in the US is prevalent, but is gun violence getting worse over the years? For our project, we will use an interactive  dashboard to show viewers the impact that guns have had over the years across the US. How has the pandemic impacted gun violence? Has gun violence increased in a certain state, and does being a red state or a blue state affect their safety from the dangers of guns? Our goal is to create a visual presentation of the data that we find to answer these questions.</p>
 
-### Project Website
-<a href= "https://aimeevu.github.io/project-3-group-e/templates/index.html">Click Me To Enter Our Site</a>
-
-### Detailed Slide Presentation
-<a href= "project_documents/Group E Project 3.pdf">Click Me To View Our Presentation</a>
-
-### Group Members:
-
-* <a href="https://github.com/sesu0722">Selina</a>
-* <a href="https://github.com/Ariwodo16">Mike Ariwodo</a>
-* <a href="https://github.com/WMatthewARC">William M</a>
-* <a href="https://github.com/aimeevu">Aimee V</a>
-* <a href="https://github.com/jlmamp">Jarvis L</a>
-* <a href="https://github.com/vertta">Vertta M</a>
-* <a href="https://github.com/pradipraodeo">Pradip</a>
-* <a href="https://github.com/vkk125">Valentina Z</a>
-* <a href="https://github.com/jdellinger80">James D</a>
-* <a href="https://github.com/GigiSchulte">Gina S S</a>
 
 ### Datasets:
 
@@ -38,13 +20,13 @@
 
 ### Tasks:
 
-* Set up database - Vertta/Selina
-* Clean data - James Dellinger
-* Flask API - William
-* HTML/CSS frame of website - Gina/Aimee
-* Interactive Map - Valentina/Michael
-* Drop Down Charts - Selina/Michael/Jarvis
-* PowerPoint Presentation - (Done by Tuesday) - Aimee/Pradip/William
+* Set up database 
+* Clean data 
+* Flask API
+* HTML/CSS frame of website
+* Interactive Map 
+* Drop Down Charts 
+* PowerPoint Presentation 
 
 ### Sketch:
 ![sketch](./image/ReadMe-sketch.png)
