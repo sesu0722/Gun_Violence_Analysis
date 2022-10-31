@@ -1,4 +1,4 @@
-# Project 3 | Group E
+# Project 3 
 ## Gun Violence in America
 
 ### Description:
