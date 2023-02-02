@@ -64,6 +64,7 @@ https://coolors.co/334bff-4d2d52-f4d58d-697268-d64550
 
    <br>
    <p>Bar chart and line chart: The bar chart and line chart are made by chart.js as well. The data is the combined dataset that contains the information per year and state. these two charts will show new data base on the dropdown selections</p>
- ![bar](https://user-images.githubusercontent.com/105521221/198891220-85d24881-e94d-42a3-8715-36b8a4491310.png)
+![bar and line](https://user-images.githubusercontent.com/105521221/216377453-2b382b19-0570-4db3-9f10-cf5b383c7b8d.png)
+
 
    <br>
